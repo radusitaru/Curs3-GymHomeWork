@@ -1,0 +1,1 @@
+[[memberName='Ionut', birthdate=1990-08-23, hoursLeftOnSubscription=9, category='Red', age=31}], [memberName='Radu', birthdate=1999-03-25, hoursLeftOnSubscription=20, category='Yellow', age=23}], [memberName='Vlad', birthdate=1996-11-24, hoursLeftOnSubscription=50, category='Green', age=25}]]
